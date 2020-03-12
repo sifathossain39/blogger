@@ -9,6 +9,11 @@ $(document).ready(function(){
     $nav.toggleClass('collapse')
   })
 
+  /* Owl-crousel for blog */
+
+  $('.owl-carousel').owlCarousel();
+
+
 
 
 
