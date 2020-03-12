@@ -12,7 +12,7 @@ $(document).ready(function(){
   /* Owl-crousel for blog */
 
   $('.owl-carousel').owlCarousel({
-    loop:true,
+    loop:false,
     autoplay:true,
     autoplayTimeout:3000,
     dots:false,
