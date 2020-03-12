@@ -12,8 +12,8 @@ $(document).ready(function(){
   /* Owl-crousel for blog */
 
   $('.owl-carousel').owlCarousel({
-    loop:false,
-    autoplay:true,
+    loop:true,
+    autoplay:false,
     autoplayTimeout:3000,
     dots:false,
     nav:true,
